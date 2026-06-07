@@ -1,4 +1,42 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+node_modules/
+.next/
+out/
+dist/
+build/
+.turbo/
+coverage/
+.env.local
+.env.*.local
+.env
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vercel/
+.cache/
+logs/
+*.log
+/.pnp.*
+/.parcel-cache/
+/.idea/
+.vscode/
+*.tgz
+.envrc
+/.env
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# VS Code
+.history/# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
