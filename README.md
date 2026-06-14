@@ -75,3 +75,7 @@ git push -u origin main
 1. Go to [vercel.com/new](https://vercel.com/new) and import the GitHub repo.
 2. Vercel auto-detects Next.js — no configuration needed.
 3. Click **Deploy**.
+
+
+
+Added changes
